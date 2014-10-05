@@ -1,0 +1,20 @@
+Source: baloo-kcmadv
+Section: kde
+Priority: optional
+Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Uploaders: Luigi Toscano <luigi.toscano@tiscali.it>
+Build-Depends: debhelper (>= 9), pkg-kde-tools (>= 0.5), cmake, pkg-config, kdelibs5-dev (>=4:4.13.0),
+ baloo-dev, libkfilemetadata-dev, libqjson-dev, libxapian-dev
+Homepage: https://gitorious.org/baloo-kcmadv
+Standards-Version: 3.9.5
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/baloo-kcmadv.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/baloo-kcmadv.git
+
+Package: kde-config-baloo-advanced
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+Description: advanced configuration module for KDE Desktop Search
+ This module allows users to fine-tune the configuration of the Baloo
+ Desktop Search technology for KDE applications.
+ .
+ This package contains a KCM module.

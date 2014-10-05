@@ -1,0 +1,50 @@
+This work was packaged for Debian by:
+
+    Luigi Toscano <luigi.toscano@tiscali.it> on Sat, 05 Oct 2014 15:30:12 +0200
+
+It was downloaded from:
+
+    https://gitorious.org/baloo-kcmadv
+
+Upstream Author:
+
+    Lindsay Mathieson <lindsay.mathieson@gmail.com>
+
+Upstream Copyright Holders:
+
+    Copyright (c) 2003 Scott Wheeler <wheeler@kde.org>
+    Copyright (c) 2004 Max Howell <max.howell@methylblue.com>
+    Copyright (c) 2004 Mark Kretschmann <markey@web.de>
+    Copyright (c) 2008 Seb Ruiz <ruiz@kde.org>
+    Copyright (c) 2007-2010 Sebastian Trueg <trueg@kde.org>
+    Copyright (c) 2012-2014 Vishesh Handa <me@vhanda.in>
+    Copyright (c) 2014 Lindsay Mathieson <lindsay.mathieson@gmail.com>
+
+License:
+
+   This library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Library General Public
+   License version 2 as published by the Free Software Foundation.
+
+   This library is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+   Library General Public License for more details.
+
+   You should have received a copy of the GNU Library General Public License
+   along with this library; see the file COPYING.LIB.  If not, write to
+   the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+   Boston, MA 02110-1301, USA.
+
+On Debian systems, the complete text of the GNU Library General
+Public License version 2 can be found in `/usr/share/common-licenses/LGPL-2'.
+
+The Debian packaging is:
+
+    Copyright © 2014 Luigi Toscano <luigi.toscano@tiscali.it>
+
+you can redistribute it and/or modify
+it under the terms of the GNU Library General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
