@@ -13,7 +13,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/baloo-kcmadv.git
 Package: kde-config-baloo-advanced
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
-Description: advanced configuration module for KDE Desktop Search
+Description: advanced configuration module for KDE Baloo Desktop Search
  This module allows users to fine-tune the configuration of the Baloo
  Desktop Search technology for KDE applications.
  .
