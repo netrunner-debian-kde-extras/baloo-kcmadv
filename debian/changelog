@@ -1,5 +1,5 @@
-baloo-kcmadv (0~git20140427-1) unstable; urgency=low
+baloo-kcmadv (1.00.00-1) unstable; urgency=low
 
   * Initial version (Closes: #764115)
 
- -- Luigi Toscano <luigi.toscano@tiscali.it>  Sun, 05 Oct 2014 15:31:22 +0200
+ -- Luigi Toscano <luigi.toscano@tiscali.it>  Thu, 09 Oct 2014 00:21:46 +0200

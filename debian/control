@@ -6,7 +6,7 @@ Uploaders: Luigi Toscano <luigi.toscano@tiscali.it>
 Build-Depends: debhelper (>= 9), pkg-kde-tools (>= 0.5), cmake, pkg-config, kdelibs5-dev (>=4:4.13.0),
  baloo-dev, libkfilemetadata-dev, libqjson-dev, libxapian-dev
 Homepage: https://gitorious.org/baloo-kcmadv
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/baloo-kcmadv.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/baloo-kcmadv.git
 
